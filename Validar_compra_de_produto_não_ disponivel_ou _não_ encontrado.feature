@@ -23,7 +23,7 @@ Cenário: Verificar o produto pesquisado
     
     Então deve ser apresentado os produtos no site.
 
-Esquema do Cenário: Validar compra de produto não disponivel.
+Esquema do Cenário: Validar compra de produto não disponivel ou não encontrado.
     Quando pesquiso por "iPhone 12 Apple 128GB Preto Tela 6,1” - Câm. Dupla 12MP iOS"
     Então visualizo os produtos. 
     E a mensagem "não disponivel".
