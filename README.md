@@ -17,4 +17,7 @@ robot -d\log web\Tests\
 
 
 Obs o selenium é importado no arquivo robot do codigo, ja tem a biblioteca. 
+Segue em link o guia do robot
+
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
 
