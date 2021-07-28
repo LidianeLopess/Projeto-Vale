@@ -5,7 +5,7 @@
 #version: 1.0
 
 Funcionalidade: <compra no site Magalu com sucesso>
-    #CT-0012
+    
     Como um <Usuario>
     Eu quero comprar um produto no site Magalu
     Para que o produto seja entregue na minha casa.
