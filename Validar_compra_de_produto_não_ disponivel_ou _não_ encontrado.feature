@@ -26,7 +26,7 @@ Cenário: Verificar o produto pesquisado
 Esquema do Cenário: Validar compra de produto não disponivel ou não encontrado.
     Quando pesquiso por "produto"
     Então visualizo os produtos. 
-    E a mensagem "não disponivel".
+    E a "mensagem de validação".
 Exemplos: 
     |   Produto                                                                 |   Mensagem validação                                         |      
     |   "Iphone iPhone 12 Apple 128GB Preto Tela 6,1” - Câm. Dupla 12MP iOS"    |   "NÃO DISPONIVEL"                                           |  
