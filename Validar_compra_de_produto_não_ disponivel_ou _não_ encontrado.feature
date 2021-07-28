@@ -5,7 +5,7 @@
 #version: 1.0
 
 Funcionalidade: <compra no site Magalu>
-    #CT-0012
+    
     Como um <Usuario>
     Eu quero comprar um produto no site Magalu
     Para que o produto seja entregue na minha casa.
@@ -24,7 +24,7 @@ Cenário: Verificar o produto pesquisado
     Então deve ser apresentado os produtos no site.
 
 Esquema do Cenário: Validar compra de produto não disponivel ou não encontrado.
-    Quando pesquiso por "iPhone 12 Apple 128GB Preto Tela 6,1” - Câm. Dupla 12MP iOS"
+    Quando pesquiso por "produto"
     Então visualizo os produtos. 
     E a mensagem "não disponivel".
 Exemplos: 
